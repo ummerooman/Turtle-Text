@@ -1,0 +1,53 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+extension/node_modules
+extension/.pnp
+extension/.pnp.js
+
+# testing
+extension/coverage
+
+# production
+extension/build
+
+# misc
+extension/.DS_Store
+extension/.env.local
+extension/.env.development.local
+extension/.env.test.local
+extension/.env.production.local 
+
+extension/npm-debug.log*
+extension/yarn-debug.log*
+extension/yarn-error.log*
+
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+summarizerui/node_modules
+summarizerui/.pnp
+summarizerui/.pnp.js
+
+# testing
+summarizerui/coverage
+
+# production
+summarizerui/build
+
+# misc
+summarizerui/.DS_Store
+summarizerui/.env.local
+summarizerui/.env.development.local
+summarizerui/.env.test.local
+summarizerui/.env.production.local 
+
+summarizerui/npm-debug.log*
+summarizerui/yarn-debug.log*
+summarizerui/yarn-error.log*
+
+summarizerui-copy/
+summarizerui/.env
+b336fa0b874ea92e3e22f07a7e6f8fa9da01221759c33abeb2679d6d98fe7755.585965cf7e82e4536033cd21d76c486af3d6b1c2a34b3a847840d4e7fe9d8844
+offline_model.py
